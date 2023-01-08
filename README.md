@@ -21,7 +21,8 @@ Flutter Packages:
 -----------------------------------------------------------------------------------------------------------------------------
 Flutter Project Architecture:
 ------------------------------------
-   -  ![Project Architecture](https://user-images.githubusercontent.com/74889620/211214026-ca97b3d1-5c94-4bf1-bd3a-dd4c12d5f526.png)
+  - ![Project Architecture 2](https://user-images.githubusercontent.com/74889620/211214938-67460b9a-5d0d-4a75-a160-d0459969d3bf.png)
+  - ![Project Architecture](https://user-images.githubusercontent.com/74889620/211214026-ca97b3d1-5c94-4bf1-bd3a-dd4c12d5f526.png)
 -----------------------------------------------------------------------------------------------------------------------------
 App Screenshots:
 ------------------------
